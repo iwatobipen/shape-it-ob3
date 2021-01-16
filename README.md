@@ -1,5 +1,10 @@
 # shape-it-ob3
 
+# 20210116
+
+- This repository is no more maintenaced.
+- Plase check new repository, URL is below.
+- https://github.com/rdkit/shape-it
 
 ## Description
 
